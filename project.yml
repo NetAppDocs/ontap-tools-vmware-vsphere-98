@@ -7,7 +7,7 @@ settings:
     pdf_enabled: true
 sidebar:
   entries:
-    - title: ONTAP tools for VMware vSphere docs 9.8
+    - title: ONTAP tools for VMware vSphere 9.8 docs
       url: /index.html
     - title: Release notes
       url: /release_notes.html
