@@ -12,6 +12,7 @@ summary: Legal notices provide access to copyright statements, trademarks, paten
 :linkattrs:
 :imagesdir: ./media/
 
+[.Lead]
 Legal notices provide access to copyright statements, trademarks, patents, and more.
 
 == Copyright

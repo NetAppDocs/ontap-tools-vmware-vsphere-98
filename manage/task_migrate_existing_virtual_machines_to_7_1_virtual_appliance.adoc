@@ -1,5 +1,5 @@
 ---
-permalink: manage/task_migrate_virtual_machines_with_older_storage_capability_profiles.html
+permalink: manage/task_migrate_existing_virtual_machines_to_7_1_virtual_appliance.html
 sidebar: sidebar
 keywords:
 summary: 'If you are using the latest version of ONTAP tools for VMware vSphere, then you should migrate your virtual machines that are provisioned with the “MaxThroughput MBPS” or “MaxThroughput IOPS” QoS metrics to new VVol datastores that are provisioned with the “Max IOPS” QoS metrics of the latest version of ONTAP tools.'

@@ -11,4 +11,4 @@ summary: 'If you are new to VMware and have never used a NetApp VSC product, you
 [.lead]
 If you are new to VMware and have never used a NetApp VSC product, you need to configure your vCenter Server and setup an ESXi host, before you deploy and configure the ONTAP tools.
 
-image::../media/new_user_deployment_workflow_vsc_vp_and_sra_7_0.gif[]
+image::../media/new_user_deployment_workflow_vsc_vp_and_sra_7_0.gif["New user deployment workflow"]
