@@ -18,8 +18,6 @@ To create new user roles, you must log in as an administrator on storage systems
 link:../configure/task_configure_user_role_and_privileges.html[Configure user roles and privileges]
 
 * RBAC User Creator for ONTAP tool (if using ONTAP 9.6 or earlier)
-+
-https://community.netapp.com/t5/Virtualization-Articles-and-Resources/RBAC-User-Creator-tool-for-VSC-VASA-Provider-and-Storage-Replication-Adapter-7-0/ta-p/133203[RBAC User Creator tool for VSC, VASA Provider and Storage Replication Adapter 7.0 for VMware vSphere]
 
 Each ONTAP role has an associated user name and password pair, which constitute the credentials of the role. If you do not log in by using these credentials, you cannot access the storage operations that are associated with the role.
 
