@@ -16,6 +16,8 @@ You can collect log files for ONTAP tools for VMware vSphere from the option ava
 If you need VASA Provider log files, you can generate a support bundle from the Vendor Provider Control Panel screen. This page is part of the VASA Provider maintenance menus, which are accessible from the virtual appliance's console.
 
 `\https://vm_ip:9083`
+[NOTE]
+When you are not able to access the web interface, use the *Enable SSH Access* option in the maintenance console, see link:../configure/reference_maintenance_console_of_ontap_tools_for_vmware_vsphere.html[Maintenance console options for ONTAP tools]. After the SSH is enabled you can access the ONTAP tools for VMware vSphere appliance using a SFTP client.
 
 You can collect the VSC log files by using the "`Export VSC Logs`" feature in the VSC GUI. When you collect a VSC log bundle with VASA Provider enabled, the VSC log bundle will also have the VP logs. The following steps tell you how to collect the VSC log files:
 
